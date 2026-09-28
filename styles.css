@@ -10,8 +10,26 @@ body {
     background-color: lightblue;
     padding: 30px;
     color: saddlebrown;
+    margin-bottom: 20px;
 }
 
 .page-name {
     margin: 0;
+}
+
+.nav-links {
+    color: saddlebrown;
+}
+
+.main-content {
+    background-color: lightpink;
+    padding: 30px;
+    color: darkmagenta;
+    margin-bottom: 20px;
+}
+
+.site-footer {
+    background-color: plum;
+    padding: 30px;
+    color: midnightblue;
 }
