@@ -1,0 +1,17 @@
+html {
+    background-color: mistyrose;
+}
+
+body {
+    margin: 0;
+}
+
+.site-header {
+    background-color: lightblue;
+    padding: 30px;
+    color: saddlebrown;
+}
+
+.page-name {
+    margin: 0;
+}
