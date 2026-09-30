@@ -5,3 +5,31 @@ html {
 body {
     margin: 0;
 }
+
+.site-header {
+    background-color: lightcyan;
+    padding: 30px;
+    color: indigo;
+    margin-bottom: 20px;
+}
+
+.page-name {
+    margin: 0;
+}
+
+.nav-links {
+    color: indigo;
+}
+
+.main-content {
+    background-color: lavenderblush;
+    padding: 30px;
+    color: deeppink;
+    margin-bottom: 20px;
+}
+
+.second-main {
+    background-color: thistle;
+    padding: 30px;
+    color: mediumblue;
+}
